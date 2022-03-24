@@ -15,5 +15,7 @@
   <div>
   <img align="center" alt="Warph-pic" height="300" style="border-radius:100px;" src="https://cdn.discordapp.com/attachments/701214719033475142/930292839349366784/unknown.png">
   </div>
+  
   ![Snake animation](https://github.com/Wpnnt/Wpnnt/blob/output/github-user-contribution.svg)
+  
 </div>
