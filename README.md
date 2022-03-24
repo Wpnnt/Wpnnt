@@ -11,7 +11,7 @@
   <img align="center" alt="Warph-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Warph-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Warph-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Warph-pic" height="150" style="border-radius:50px;"  src="https://cdn.discordapp.com/attachments/701214719033475142/930292839349366784/unknown.png">
+  <img align="center" alt="Warph-pic" height="300" style="border-radius:100px;"  src="https://cdn.discordapp.com/attachments/701214719033475142/930292839349366784/unknown.png">
   
   ![Snake animation](https://github.com/Wpnnt/Wpnnt/blob/output/github-user-contribution.svg)
 </div>
