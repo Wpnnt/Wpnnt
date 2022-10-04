@@ -1,8 +1,7 @@
 # Hi There! <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/fire_1f525.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
 <div align="center">
   <a href="https://github.com/Wpnnt">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wpnnt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wpnnt&layout=compact&langs_count=7&theme=dracula"/>
+  
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Warph-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
