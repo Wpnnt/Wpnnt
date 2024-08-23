@@ -1,4 +1,5 @@
 <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/fire_1f525.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
+<p>There is a flame of hope...</p>
 <div align="center">
   <a href="https://github.com/Wpnnt">
    
