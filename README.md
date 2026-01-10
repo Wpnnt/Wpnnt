@@ -3,15 +3,19 @@
   <h3>hope...</h3>
   
   <br/>
-
-  <div style="display: inline_block">
-    <img alt="Warph-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="margin: 0 5px;">
-    <img alt="Warph-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" style="margin: 0 5px;">
-    <img alt="Warph-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="margin: 0 5px;">
-    <img alt="Warph-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="margin: 0 5px;">
-    <img alt="Warph-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="margin: 0 5px;">
-    <img alt="Warph-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="margin: 0 5px;">
-  </div>
+<p align="center">
+  <h3>Languages</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,java,python" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <h3>Others</h3>
+    <img src="https://skillicons.dev/icons?i=,docker,git,githubactions," />
+  </a>
+</p>
+  
 </div>
 
 <br/>
