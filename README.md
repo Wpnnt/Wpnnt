@@ -22,6 +22,3 @@
     <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Wpnnt&theme=github-compact&area_color=006AFF&area=true&hide_border=true" />
   </a>
 </div>
-
-
-![Metrics](https://metrics.lecoq.io/Wpnnt?template=classic&base=header,activity,community,repositories,metadata&isocalendar=1&languages=1)
