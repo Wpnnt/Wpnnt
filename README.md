@@ -1,8 +1,6 @@
 <div align="center">
   <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/fire_1f525.png" alt="Fire Icon" width="80"/>
   <h3>hope...</h3>
-  
-  <br/>
 <p align="center">
   <h3>Languages</h3>
   <a href="https://skillicons.dev">
@@ -15,11 +13,8 @@
     <img src="https://skillicons.dev/icons?i=,docker,git,githubactions," />
   </a>
 </p>
-  
 </div>
-
 <br/>
-
 <div align="center">
   <a href="https://github.com/Wpnnt">
     <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Wpnnt&theme=github-compact&area_color=006AFF&area=true&hide_border=true" />
