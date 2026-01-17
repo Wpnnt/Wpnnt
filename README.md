@@ -2,9 +2,15 @@
   <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/fire_1f525.png" alt="Fire Icon" width="80"/>
   <h3>hope...</h3>
 <p align="center">
-  <h3>Languages & Frameworks</h3>
+  <h3>Languages</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,java,python,c#" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,java,python,c#" />
+  </a>
+</p>
+  <p align="center">
+  <h3>Frameworks</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,next,vite,laravel,spring" />
   </a>
 </p>
 <p align="center">
