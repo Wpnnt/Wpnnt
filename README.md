@@ -10,7 +10,7 @@
   <p align="center">
   <h3>Frameworks</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,next,vite,laravel,spring" />
+    <img src="https://skillicons.dev/icons?i=selenium,express,react,next,vite,laravel,spring" />
   </a>
 </p>
 <p align="center">
