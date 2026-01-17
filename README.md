@@ -4,7 +4,7 @@
 <p align="center">
   <h3>Languages & Frameworks</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,java,python" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,java,python,c#" />
   </a>
 </p>
 <p align="center">
