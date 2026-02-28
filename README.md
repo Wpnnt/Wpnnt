@@ -22,6 +22,10 @@
   </a>
 </p>
 </div>
+<h3>Projetos em Destaque</h3>
+
+* ### [**QrLinkki**](https://github.com/OS-2-Warper/QrLinkki)
+**Plataforma Moderna de Geração de QR Codes e Encurtador de URLs**
 <br/>
 <div align="center">
   <a href="https://github.com/Wpnnt">
