@@ -26,7 +26,6 @@
 
 * ### [**QrLinkki**](https://github.com/OS-2-Warper/QrLinkki)
   **Modern QR Code Generation & URL Shortening Platform**
-  * *A high-performance solution designed to bridge the gap between physical and digital worlds through customizable QR codes and efficient link management.*
 <br/>
 <div align="center">
   <a href="https://github.com/Wpnnt">
