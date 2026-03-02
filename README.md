@@ -26,6 +26,9 @@
 
 * ### [**QrLinkki**](https://github.com/OS-2-Warper/QrLinkki)
   **Modern QR Code Generation & URL Shortening Platform**
+* ### [**AnonBay_Bot**](https://github.com/Wpnnt/AnonBay_Bot)
+  **AI-Powered Telegram Assistant & Data Aggregator**
+  
 <br/>
 <div align="center">
   <a href="https://github.com/Wpnnt">
