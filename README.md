@@ -19,7 +19,8 @@
     <img src="https://skillicons.dev/icons?i=ts" width="25" align="absmiddle" /> TypeScript &nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=java" width="25" align="absmiddle" /> Java &nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=python" width="25" align="absmiddle" /> Python &nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=cs" width="25" align="absmiddle" /> C#
+    <img src="https://skillicons.dev/icons?i=cs" width="25" align="absmiddle" /> C# &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=php" width="25" align="absmiddle" /> PHP
   </p>
 
   <h4>Frameworks & Libraries</h4>
