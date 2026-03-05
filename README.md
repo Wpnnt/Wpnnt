@@ -43,7 +43,7 @@
 
 <br/>
 
-<h3 align="center">🚀 Featured Projects</h3>
+<h3>🚀 Featured Projects</h3>
 
 * ### [**QrLinkki**](https://github.com/OS-2-Warper/QrLinkki)
   **Modern QR Code Generation & URL Shortening Platform**
