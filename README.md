@@ -11,7 +11,7 @@
 <br/>
 
 <div align="center">
-  <h3>🛠️ Tech Stack & Tools</h3>
+  <h3>Tech Stack & Tools</h3>
 
   <h4>Languages</h4>
   <p>
@@ -44,7 +44,7 @@
 
 <br/>
 
-<h3>🚀 Featured Projects</h3>
+<h3>Featured Projects</h3>
 
 * ### [**QrLinkki**](https://github.com/OS-2-Warper/QrLinkki)
   **Modern QR Code Generation & URL Shortening Platform**
