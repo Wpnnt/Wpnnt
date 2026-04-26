@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Paulo Vitor (Warph) 👋</h1>
 <p align="center">
   <strong>Full-Stack Developer | Infrastructure & Process Optimization</strong><br>
-  <i>Systems Analysis and Development (ADS) Student</i>
 </p>
 
 <p align="center">
