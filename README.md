@@ -1,58 +1,59 @@
-<h1 align="center">Hi, I'm Paulo Vitor (Warph) 👋</h1>
-<p align="center">
-  <strong>Full-Stack Developer | Infrastructure & Process Optimization</strong><br>
-</p>
+<div align="center">
 
-<p align="center">
-  I am a developer with a solid foundation in back-end programming and a strong background in operational workflows. From managing robust environments with Docker and Linux to building complete SaaS applications, I focus on creating reliable digital tools that solve real-world administrative and logistical bottlenecks.
-</p>
+<h1>Hey, I'm Paulo Vitor 👋</h1>
+
+<strong>Full-Stack Developer</strong> · <em>CS Student · Looking for an internship</em>
 
 <br/>
 
-<div align="center">
-  <h3>Tech Stack & Tools</h3>
+I'm a full-stack developer who enjoys building practical tools for real, everyday problems.<br/>
+From well-structured APIs to containerized environments built from scratch —<br/>
+I build, I break, I learn, and I keep deploying.
 
-  <h4>Languages</h4>
-  <p>
-    <img src="https://skillicons.dev/icons?i=js" width="25" align="absmiddle" /> JavaScript &nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=ts" width="25" align="absmiddle" /> TypeScript &nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=java" width="25" align="absmiddle" /> Java &nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=python" width="25" align="absmiddle" /> Python &nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=cs" width="25" align="absmiddle" /> C# &nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=php" width="25" align="absmiddle" /> PHP
-  </p>
+---
 
-  <h4>Frameworks & Libraries</h4>
-  <p>
-    <img src="https://skillicons.dev/icons?i=react" width="25" align="absmiddle" /> React &nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=next" width="25" align="absmiddle" /> Next.js &nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=vite" width="25" align="absmiddle" /> Vite &nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=express" width="25" align="absmiddle" /> Express &nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=spring" width="25" align="absmiddle" /> Spring Boot &nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=laravel" width="25" align="absmiddle" /> Laravel &nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=selenium" width="25" align="absmiddle" /> Selenium
-  </p>
+### What I Work With
 
-  <h4>DevOps & Infra</h4>
-  <p>
-    <img src="https://skillicons.dev/icons?i=docker" width="25" align="absmiddle" /> Docker &nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=git" width="25" align="absmiddle" /> Git &nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=githubactions" width="25" align="absmiddle" /> GitHub Actions
-  </p>
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=js,ts,java,python,cs,php" />
+
+**Frameworks & Libraries**
+
+<img src="https://skillicons.dev/icons?i=react,next,express,spring,laravel,selenium" />
+
+**DevOps & Infra**
+
+<img src="https://skillicons.dev/icons?i=docker,git,githubactions" />
+
+---
+
 </div>
 
-<br/>
+### Projects
 
-<h3>Featured Projects</h3>
+#### [QrLinkki](https://github.com/OS-2-Warper/QrLinkki)
+A QR Code generation and URL shortening platform I built from scratch.
+REST API back-end, link management, and dynamic QR generation —
+with scalability in mind from day one.
 
-* ### [**QrLinkki**](https://github.com/OS-2-Warper/QrLinkki)
-  **Modern QR Code Generation & URL Shortening Platform**
+#### [WhatsApp Tauri](https://github.com/Wpnnt/WhatsApp-Tauri)
+A lightweight native desktop client for WhatsApp, built with Tauri v2 and Rust.
+Focused on simplicity and performance — everything a desktop app should be,
+nothing it shouldn't.
 
-
-<br/>
+---
 
 <div align="center">
-  <a href="https://github.com/Wpnnt">
-    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Wpnnt&theme=github-compact&area_color=006AFF&area=true&hide_border=true" alt="Paulo Vitor's Contribution Graph" />
-  </a>
+
+### Let's Connect
+
+<a href="https://www.linkedin.com/in/paulo-vitor37/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<br/><br/>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Wpnnt&theme=github-compact&area_color=006AFF&area=true&hide_border=true" />
+
 </div>
