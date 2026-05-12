@@ -2,25 +2,27 @@
 
 <h1>Hey, I'm Paulo Vitor 👋</h1>
 
-<strong>Full-Stack Developer</strong> · <em>CS Student · Looking for an internship</em>
+<strong>Full-Stack Developer</strong> · 
+<em>ADS Student · Open to internship opportunities in Technology/IT</em>
 
 <br/>
 
 I'm a full-stack developer who enjoys building practical tools for real, everyday problems.<br/>
-From well-structured APIs to containerized environments built from scratch<br/>
+From well-structured APIs and web applications to containerized environments built from scratch,<br/>
 I build, I break, I learn, and I keep deploying.
 
 ---
 
 ### What I Work With
-
+_Actively learning and improving these technologies_
+  
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=js,ts,java,python,cs,php" />
+<img src="https://skillicons.dev/icons?i=js,ts,java,python,cs,php,rust" />
 
 **Frameworks & Libraries**
 
-<img src="https://skillicons.dev/icons?i=react,next,express,spring,laravel,selenium" />
+<img src="https://skillicons.dev/icons?i=react,next,express,spring,laravel,selenium,tauri" />
 
 **DevOps & Infra**
 
