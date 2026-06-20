@@ -3,7 +3,7 @@
 <h1>Hey, I'm Paulo Vitor 👋</h1>
 
 <strong>Full-Stack Developer</strong> · 
-<em>ADS Student · Open to internship opportunities in Technology/IT</em>
+<em>ADS Student · Open to internship opportunities</em>
 
 <br/>
 
