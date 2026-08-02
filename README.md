@@ -30,7 +30,6 @@ _Actively learning and improving these technologies_
 
 <a href="https://react.dev" target="_blank"><img src="https://skillicons.dev/icons?i=react" /></a>
 <a href="https://nextjs.org" target="_blank"><img src="https://skillicons.dev/icons?i=next" /></a>
-<a href="https://expressjs.com" target="_blank"><img src="https://skillicons.dev/icons?i=express" /></a>
 <a href="https://spring.io" target="_blank"><img src="https://skillicons.dev/icons?i=spring" /></a>
 <a href="https://laravel.com" target="_blank"><img src="https://skillicons.dev/icons?i=laravel" /></a>
 <a href="https://www.selenium.dev" target="_blank"><img src="https://skillicons.dev/icons?i=selenium" /></a>
