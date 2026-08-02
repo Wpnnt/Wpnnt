@@ -18,15 +18,29 @@ _Actively learning and improving these technologies_
   
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=js,ts,java,python,cs,php,rust" />
+<a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" /></a>
+<a href="https://www.typescriptlang.org" target="_blank"><img src="https://skillicons.dev/icons?i=ts" /></a>
+<a href="https://www.java.com" target="_blank"><img src="https://skillicons.dev/icons?i=java" /></a>
+<a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" /></a>
+<a href="https://learn.microsoft.com/dotnet/csharp" target="_blank"><img src="https://skillicons.dev/icons?i=cs" /></a>
+<a href="https://www.php.net" target="_blank"><img src="https://skillicons.dev/icons?i=php" /></a>
+<a href="https://www.rust-lang.org" target="_blank"><img src="https://skillicons.dev/icons?i=rust" /></a>
 
 **Frameworks & Libraries**
 
-<img src="https://skillicons.dev/icons?i=react,next,express,spring,laravel,selenium,tauri" />
+<a href="https://react.dev" target="_blank"><img src="https://skillicons.dev/icons?i=react" /></a>
+<a href="https://nextjs.org" target="_blank"><img src="https://skillicons.dev/icons?i=next" /></a>
+<a href="https://expressjs.com" target="_blank"><img src="https://skillicons.dev/icons?i=express" /></a>
+<a href="https://spring.io" target="_blank"><img src="https://skillicons.dev/icons?i=spring" /></a>
+<a href="https://laravel.com" target="_blank"><img src="https://skillicons.dev/icons?i=laravel" /></a>
+<a href="https://www.selenium.dev" target="_blank"><img src="https://skillicons.dev/icons?i=selenium" /></a>
+<a href="https://tauri.app" target="_blank"><img src="https://skillicons.dev/icons?i=tauri" /></a>
 
 **DevOps & Infra**
 
-<img src="https://skillicons.dev/icons?i=docker,git,githubactions" />
+<a href="https://www.docker.com" target="_blank"><img src="https://skillicons.dev/icons?i=docker" /></a>
+<a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a>
+<a href="https://github.com/features/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions" /></a>
 
 ---
 
