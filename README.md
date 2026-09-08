@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hey, I'm Paulo Vitor 👋</h1>
+<h1>I'm Paulo Vitor</h1>
 
 <strong>Full-Stack Developer</strong> · 
 <em>ADS Student · Open to work!</em>
