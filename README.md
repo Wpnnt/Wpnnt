@@ -49,12 +49,12 @@ _Actively learning and improving these technologies_
 
 #### [QrLinkki](https://github.com/OS-2-Warper/QrLinkki)
 A QR Code generation and URL shortening platform I built from scratch.
-REST API back-end, link management, and dynamic QR generation —
+REST API back-end, link management, and dynamic QR generation
 with scalability in mind from day one.
 
 #### [WhatsApp Tauri](https://github.com/Wpnnt/WhatsApp-Tauri)
 A lightweight native desktop client for WhatsApp, built with Tauri v2 and Rust.
-Focused on simplicity and performance — everything a desktop app should be,
+Focused on simplicity and performance everything a desktop app should be,
 nothing it shouldn't.
 
 ---
