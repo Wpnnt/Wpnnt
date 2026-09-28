@@ -8,8 +8,7 @@
 <br/>
 
 I'm a full-stack developer who enjoys building practical tools for real, everyday problems.<br/>
-From well-structured APIs and web applications to containerized environments built from scratch,<br/>
-I build, I break, I learn, and I keep deploying.
+From well-structured APIs and web applications to containerized environments built from scratch.
 
 ---
 
