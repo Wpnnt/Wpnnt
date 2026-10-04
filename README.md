@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=18181b&height=200&section=header&text=Wpnnt&fontSize=42&fontColor=fafafa&desc=Full--Stack%20Developer%20%7C%20DevOps&descSize=16&descAlignY=68&descAlign=50" alt="Wpnnt" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=18181b&height=200&section=header&text=Wpnnt&fontSize=42&fontColor=fafafa&desc=Web%20apps%2C%20APIs%20and%20servers&descSize=16&descAlignY=68&descAlign=50" alt="Wpnnt" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=A1A1AA&center=true&vCenter=true&width=640&lines=Building+full-stack+web+applications+from+scratch;Automating+CI%2FCD+pipelines+and+Docker+deployments;Designing+resilient+REST+APIs+and+scalable+backends;Shipping+maintainable+code+directly+to+production" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=A1A1AA&center=true&vCenter=true&width=640&lines=Full-Stack+Developer;Building+things+for+the+web;Learning+DevOps+and+security" alt="Typing SVG" />
   </a>
 </p>
 
@@ -12,11 +12,9 @@
 
 ### About
 
-Full-Stack Developer focused on modern web applications and pragmatic DevOps. I take software from initial architecture all the way to production: building responsive interfaces, designing robust REST APIs, containerizing environments with Docker, and setting up automated CI/CD pipelines.
+I'm Vitor, a developer from Rio de Janeiro, studying Systems Analysis and Development (ADS). I like building web apps, APIs, and the servers they run on.
 
-I prioritize maintainable code, reproducible deployments, and solving real-world problems with practical, battle-tested solutions.
-
-Studying Analysis and Systems Development (ADS) · Rio de Janeiro, Brasil.
+I enjoy following a project the whole way, from the first idea to something live that people can actually open. Most of my DevOps learning comes from a Proxmox homelab I run with friends. Lately I've been getting into cybersecurity.
 
 ---
 
@@ -31,7 +29,7 @@ Studying Analysis and Systems Development (ADS) · Rio de Janeiro, Brasil.
     </td>
     <td>
       <h4><a href="https://github.com/OS-2-Warper/QrLinkki">QrLinkki</a></h4>
-      <p>A full-stack URL shortening and dynamic QR Code platform built from scratch. Features clean modular REST endpoints, link metrics, and a containerized Docker setup configured for fast, reproducible deployment.</p>
+      <p>A URL shortener with dynamic QR codes. Clean Architecture, link metrics, and Docker so it runs the same everywhere.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-18181b?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Node.js-18181b?style=flat-square&logo=nodedotjs&logoColor=white" />
@@ -48,7 +46,7 @@ Studying Analysis and Systems Development (ADS) · Rio de Janeiro, Brasil.
     </td>
     <td>
       <h4><a href="https://github.com/Wpnnt/WhatsApp-Tauri">WhatsApp Tauri</a></h4>
-      <p>A lightweight, privacy-conscious native desktop client for WhatsApp. An experiment exploring modern desktop packaging with Tauri v2 and Rust to eliminate heavy browser engine overhead.</p>
+      <p>I wanted a WhatsApp desktop client that didn't ship a whole browser with it. My first Rust project, built with Tauri v2.</p>
       <p>
         <img src="https://img.shields.io/badge/Rust-18181b?style=flat-square&logo=rust&logoColor=white" />
         <img src="https://img.shields.io/badge/Tauri_v2-18181b?style=flat-square&logo=tauri&logoColor=white" />
@@ -61,7 +59,7 @@ Studying Analysis and Systems Development (ADS) · Rio de Janeiro, Brasil.
 
 ---
 
-### Tech Stack & Tooling
+### Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-18181b?style=flat-square&logo=typescript&logoColor=white" />
