@@ -40,6 +40,21 @@ My DevOps experience comes from a Proxmox homelab I maintain with friends, where
   </tr>
   <tr>
     <td width="72" align="center" valign="middle">
+      <a href="https://github.com/Wpnnt/warph-terminal">
+        <img src="https://raw.githubusercontent.com/Wpnnt/warph-terminal/main/assets/logo-transparent.png" width="56" height="56" alt="warph-terminal Logo" />
+      </a>
+    </td>
+    <td>
+      <h4><a href="https://github.com/Wpnnt/warph-terminal">warph-terminal</a></h4>
+      <p>Modular PowerShell 7 environment for Windows, designed for daily terminal productivity with automated modules and custom tooling.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PowerShell_7-18181b?style=flat-square&logo=powershell&logoColor=white" />
+        <img src="https://img.shields.io/badge/Windows-18181b?style=flat-square&logo=windows&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="72" align="center" valign="middle">
       <a href="https://github.com/Wpnnt/WhatsApp-Tauri">
         <img src="https://raw.githubusercontent.com/Wpnnt/WhatsApp-Tauri/main/assets/whatsapp-tauri.svg" width="56" height="56" alt="WhatsApp Tauri Logo" />
       </a>
@@ -69,6 +84,7 @@ My DevOps experience comes from a Proxmox homelab I maintain with friends, where
   <img src="https://img.shields.io/badge/Node.js-18181b?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-18181b?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-18181b?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-18181b?style=flat-square&logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-18181b?style=flat-square&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-18181b?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-18181b?style=flat-square&logo=spring&logoColor=white" />
