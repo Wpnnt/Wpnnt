@@ -1,69 +1,92 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=18181b&height=200&section=header&text=Wpnnt&fontSize=42&fontColor=fafafa&desc=Full--Stack%20Developer%20%7C%20DevOps&descSize=16&descAlignY=68&descAlign=50" alt="Wpnnt" width="100%" />
+</p>
 
-<h1>I'm Paulo Vitor</h1>
-
-<strong>Full-Stack Developer</strong> · 
-<em>ADS Student · Open to work!</em>
-
-<br/>
-
-I'm a full-stack developer who enjoys building practical tools for real, everyday problems.<br/>
-From well-structured APIs and web applications to containerized environments built from scratch.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=A1A1AA&center=true&vCenter=true&width=640&lines=Building+full-stack+web+applications+from+scratch;Automating+CI%2FCD+pipelines+and+Docker+deployments;Designing+resilient+REST+APIs+and+scalable+backends;Shipping+maintainable+code+directly+to+production" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-### What I Work With
-_Actively learning and improving these technologies_
-  
-**Languages**
+### About
 
-<a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" /></a>
-<a href="https://www.typescriptlang.org" target="_blank"><img src="https://skillicons.dev/icons?i=ts" /></a>
-<a href="https://www.java.com" target="_blank"><img src="https://skillicons.dev/icons?i=java" /></a>
-<a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" /></a>
-<a href="https://learn.microsoft.com/dotnet/csharp" target="_blank"><img src="https://skillicons.dev/icons?i=cs" /></a>
-<a href="https://www.php.net" target="_blank"><img src="https://skillicons.dev/icons?i=php" /></a>
-<a href="https://www.rust-lang.org" target="_blank"><img src="https://skillicons.dev/icons?i=rust" /></a>
+Full-Stack Developer focused on modern web applications and pragmatic DevOps. I take software from initial architecture all the way to production: building responsive interfaces, designing robust REST APIs, containerizing environments with Docker, and setting up automated CI/CD pipelines.
 
-**Frameworks & Libraries**
+I prioritize maintainable code, reproducible deployments, and solving real-world problems with practical, battle-tested solutions.
 
-<a href="https://react.dev" target="_blank"><img src="https://skillicons.dev/icons?i=react" /></a>
-<a href="https://nextjs.org" target="_blank"><img src="https://skillicons.dev/icons?i=next" /></a>
-<a href="https://spring.io" target="_blank"><img src="https://skillicons.dev/icons?i=spring" /></a>
-<a href="https://laravel.com" target="_blank"><img src="https://skillicons.dev/icons?i=laravel" /></a>
-<a href="https://www.selenium.dev" target="_blank"><img src="https://skillicons.dev/icons?i=selenium" /></a>
-<a href="https://tauri.app" target="_blank"><img src="https://skillicons.dev/icons?i=tauri" /></a>
-
-**DevOps & Infra**
-
-<a href="https://www.docker.com" target="_blank"><img src="https://skillicons.dev/icons?i=docker" /></a>
-<a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a>
-<a href="https://github.com/features/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions" /></a>
+Studying Analysis and Systems Development (ADS) · Rio de Janeiro, Brasil.
 
 ---
 
-</div>
+### Featured Projects
 
-### Projects
-
-#### [QrLinkki](https://github.com/OS-2-Warper/QrLinkki)
-A QR Code generation and URL shortening platform I built from scratch.
-REST API back-end, link management, and dynamic QR generation
-with scalability in mind from day one.
-
-#### [WhatsApp Tauri](https://github.com/Wpnnt/WhatsApp-Tauri)
-A lightweight native desktop client for WhatsApp, built with Tauri v2 and Rust.
-Focused on simplicity and performance everything a desktop app should be,
-nothing it shouldn't.
+<table>
+  <tr>
+    <td width="72" align="center" valign="middle">
+      <a href="https://github.com/OS-2-Warper/QrLinkki">
+        <img src="https://raw.githubusercontent.com/OS-2-Warper/QrLinkki/main/assets/logo.png" width="56" height="56" alt="QrLinkki Logo" />
+      </a>
+    </td>
+    <td>
+      <h4><a href="https://github.com/OS-2-Warper/QrLinkki">QrLinkki</a></h4>
+      <p>A full-stack URL shortening and dynamic QR Code platform built from scratch. Features clean modular REST endpoints, link metrics, and a containerized Docker setup configured for fast, reproducible deployment.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-18181b?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-18181b?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-18181b?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/REST_API-18181b?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="72" align="center" valign="middle">
+      <a href="https://github.com/Wpnnt/WhatsApp-Tauri">
+        <img src="https://raw.githubusercontent.com/Wpnnt/WhatsApp-Tauri/main/assets/whatsapp-tauri.svg" width="56" height="56" alt="WhatsApp Tauri Logo" />
+      </a>
+    </td>
+    <td>
+      <h4><a href="https://github.com/Wpnnt/WhatsApp-Tauri">WhatsApp Tauri</a></h4>
+      <p>A lightweight, privacy-conscious native desktop client for WhatsApp. An experiment exploring modern desktop packaging with Tauri v2 and Rust to eliminate heavy browser engine overhead.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Rust-18181b?style=flat-square&logo=rust&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tauri_v2-18181b?style=flat-square&logo=tauri&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-18181b?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Desktop_App-18181b?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<div align="center">
+### Tech Stack & Tooling
 
-### Let's Connect
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-18181b?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-18181b?style=flat-square&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-18181b?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-18181b?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-18181b?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-18181b?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-18181b?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-18181b?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-18181b?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-18181b?style=flat-square&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-18181b?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-18181b?style=flat-square&logo=rust&logoColor=white" />
+</p>
 
-<a href="https://www.linkedin.com/in/paulo-vitor37/">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+---
 
-</div>
+### Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/paulo-vitor37/">
+    <img src="https://img.shields.io/badge/LinkedIn-18181b?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Wpnnt">
+    <img src="https://img.shields.io/badge/GitHub-18181b?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
